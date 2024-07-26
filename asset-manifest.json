@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Movie-Website-Prototype/static/css/main.736b74be.css",
-    "main.js": "/Movie-Website-Prototype/static/js/main.a1cfd728.js",
-    "static/js/787.c8bbfc38.chunk.js": "/Movie-Website-Prototype/static/js/787.c8bbfc38.chunk.js",
-    "static/media/Oppenheimer.png": "/Movie-Website-Prototype/static/media/Oppenheimer.ec97a41d9f5b661c855a.png",
-    "static/media/Barbie.jpg": "/Movie-Website-Prototype/static/media/Barbie.c849b238562b03b6385b.jpg",
-    "static/media/IndianaJones.jpg": "/Movie-Website-Prototype/static/media/IndianaJones.59c41e505668bdd3e5ea.jpg",
-    "static/media/TheCreator.jpg": "/Movie-Website-Prototype/static/media/TheCreator.195bd452f20c1361b5da.jpg",
-    "static/media/MissionImpossible.jpg": "/Movie-Website-Prototype/static/media/MissionImpossible.3f84c2093402065df6ce.jpg",
-    "static/media/Strays.jpg": "/Movie-Website-Prototype/static/media/Strays.1b2209cdf7ce2ac55161.jpg",
-    "static/media/HauntedMansion.jpg": "/Movie-Website-Prototype/static/media/HauntedMansion.1ac8d82e2a624690139e.jpg",
-    "static/media/AsteroidCity.jpg": "/Movie-Website-Prototype/static/media/AsteroidCity.ba946090f5541b8d9fbc.jpg",
-    "static/media/Oppenheimer.jpg": "/Movie-Website-Prototype/static/media/Oppenheimer.e709378cb9c25c0fe3dd.jpg",
-    "static/media/IndianaJones.png": "/Movie-Website-Prototype/static/media/IndianaJones.74fae313230abb6c5c3b.png",
-    "static/media/AsteroidCity.png": "/Movie-Website-Prototype/static/media/AsteroidCity.f1cae007b393575ba4bf.png",
-    "index.html": "/Movie-Website-Prototype/index.html",
-    "main.736b74be.css.map": "/Movie-Website-Prototype/static/css/main.736b74be.css.map",
-    "main.a1cfd728.js.map": "/Movie-Website-Prototype/static/js/main.a1cfd728.js.map",
-    "787.c8bbfc38.chunk.js.map": "/Movie-Website-Prototype/static/js/787.c8bbfc38.chunk.js.map"
+    "main.css": "/Movie-Web-Application/static/css/main.40be8393.css",
+    "main.js": "/Movie-Web-Application/static/js/main.6946c3f7.js",
+    "static/js/787.9e2911a9.chunk.js": "/Movie-Web-Application/static/js/787.9e2911a9.chunk.js",
+    "static/media/Oppenheimer.png": "/Movie-Web-Application/static/media/Oppenheimer.ec97a41d9f5b661c855a.png",
+    "static/media/Barbie.jpg": "/Movie-Web-Application/static/media/Barbie.c849b238562b03b6385b.jpg",
+    "static/media/IndianaJones.jpg": "/Movie-Web-Application/static/media/IndianaJones.59c41e505668bdd3e5ea.jpg",
+    "static/media/TheCreator.jpg": "/Movie-Web-Application/static/media/TheCreator.195bd452f20c1361b5da.jpg",
+    "static/media/MissionImpossible.jpg": "/Movie-Web-Application/static/media/MissionImpossible.3f84c2093402065df6ce.jpg",
+    "static/media/Strays.jpg": "/Movie-Web-Application/static/media/Strays.1b2209cdf7ce2ac55161.jpg",
+    "static/media/HauntedMansion.jpg": "/Movie-Web-Application/static/media/HauntedMansion.1ac8d82e2a624690139e.jpg",
+    "static/media/AsteroidCity.jpg": "/Movie-Web-Application/static/media/AsteroidCity.ba946090f5541b8d9fbc.jpg",
+    "static/media/Oppenheimer.jpg": "/Movie-Web-Application/static/media/Oppenheimer.e709378cb9c25c0fe3dd.jpg",
+    "static/media/IndianaJones.png": "/Movie-Web-Application/static/media/IndianaJones.74fae313230abb6c5c3b.png",
+    "static/media/AsteroidCity.png": "/Movie-Web-Application/static/media/AsteroidCity.f1cae007b393575ba4bf.png",
+    "index.html": "/Movie-Web-Application/index.html",
+    "main.40be8393.css.map": "/Movie-Web-Application/static/css/main.40be8393.css.map",
+    "main.6946c3f7.js.map": "/Movie-Web-Application/static/js/main.6946c3f7.js.map",
+    "787.9e2911a9.chunk.js.map": "/Movie-Web-Application/static/js/787.9e2911a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.736b74be.css",
-    "static/js/main.a1cfd728.js"
+    "static/css/main.40be8393.css",
+    "static/js/main.6946c3f7.js"
   ]
 }
